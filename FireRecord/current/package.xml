@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<content>
+		<file path="FireRecord.dll" />
+		<file path="FireRecord.dll.manifest" />
+		<file path="FireRecord.vsto" />
+		<file path="Microsoft.Office.Tools.Common.v4.0.Utilities.dll" />
+		<file path="NanoTechnologies.NETStandardLC.dll" />
+	</content>
+	<update>
+		<run path="FireRecord.vsto" />
+	</update>
+</package>
