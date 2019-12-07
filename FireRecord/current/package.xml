@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
 	<content>
+		<file path="en\FireRecord.resources.dll" />
 		<file path="FireRecord.dll" />
 		<file path="FireRecord.dll.manifest" />
 		<file path="FireRecord.vsto" />
