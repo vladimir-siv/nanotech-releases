@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
 	<content>
-		<file path="en\FireRecord.resources.dll" />
-		<file path="FireRecord.dll" />
-		<file path="FireRecord.dll.manifest" />
+		<file path="Application Files/FireRecord_1_0_0_0/en/FireRecord.resources.dll.deploy" />
+		<file path="Application Files/FireRecord_1_0_0_0/FireRecord.dll.deploy" />
+		<file path="Application Files/FireRecord_1_0_0_0/FireRecord.dll.manifest" />
+		<file path="Application Files/FireRecord_1_0_0_0/FireRecord.vsto" />
+		<file path="Application Files/FireRecord_1_0_0_0/Microsoft.Office.Tools.Common.v4.0.Utilities.dll.deploy" />
+		<file path="Application Files/FireRecord_1_0_0_0/NanoTechnologies.NETStandardLC.dll.deploy" />
 		<file path="FireRecord.vsto" />
-		<file path="Microsoft.Office.Tools.Common.v4.0.Utilities.dll" />
-		<file path="NanoTechnologies.NETStandardLC.dll" />
+		<file path="setup.exe" />
 	</content>
 	<update>
-		<run path="FireRecord.vsto" />
+		<run path="setup.exe" />
 	</update>
 </package>
