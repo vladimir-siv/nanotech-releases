@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<content>
+		<file path="FireMaintenance.vsto" />
+		<file path="setup.exe" />
+		
+		<file path="Application Files/FireMaintenance_1_0_0_0/en/FireMaintenance.resources.dll.deploy" />
+		<file path="Application Files/FireMaintenance_1_0_0_0/FireMaintenance.dll.deploy" />
+		<file path="Application Files/FireMaintenance_1_0_0_0/FireMaintenance.dll.manifest" />
+		<file path="Application Files/FireMaintenance_1_0_0_0/FireMaintenance.vsto" />
+		<file path="Application Files/FireMaintenance_1_0_0_0/Microsoft.Office.Tools.Common.v4.0.Utilities.dll.deploy" />
+		<file path="Application Files/FireMaintenance_1_0_0_0/NanoTechnologies.NETStandardLC.dll.deploy" />
+	</content>
+	<update>
+		<run path="setup.exe" />
+	</update>
+</package>
