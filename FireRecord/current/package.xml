@@ -24,6 +24,13 @@
 		<file path="Application Files/FireRecord_1_2_0_0/FireRecord.vsto" />
 		<file path="Application Files/FireRecord_1_2_0_0/Microsoft.Office.Tools.Common.v4.0.Utilities.dll.deploy" />
 		<file path="Application Files/FireRecord_1_2_0_0/NanoTechnologies.NETStandardLC.dll.deploy" />
+		
+		<file path="Application Files/FireRecord_1_3_0_0/en/FireRecord.resources.dll.deploy" />
+		<file path="Application Files/FireRecord_1_3_0_0/FireRecord.dll.deploy" />
+		<file path="Application Files/FireRecord_1_3_0_0/FireRecord.dll.manifest" />
+		<file path="Application Files/FireRecord_1_3_0_0/FireRecord.vsto" />
+		<file path="Application Files/FireRecord_1_3_0_0/Microsoft.Office.Tools.Common.v4.0.Utilities.dll.deploy" />
+		<file path="Application Files/FireRecord_1_3_0_0/NanoTechnologies.NETStandardLC.dll.deploy" />
 	</content>
 	<update>
 		<run path="setup.exe" />
